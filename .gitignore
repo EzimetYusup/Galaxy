@@ -1,0 +1,14 @@
+*.class
+*.jar
+.DS_Store
+.idea
+.idea/*
+.project
+.classpath
+.settings
+testng.xml
+*/.gitignore
+*/.settings/*
+*.iml
+*/target/*
+/target/
